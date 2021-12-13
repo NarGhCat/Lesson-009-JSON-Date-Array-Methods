@@ -15,3 +15,4 @@ function sortBy(arr, str) {
     }
 }
 sortBy([4, 3, 2, 1], "Asc");
+sortBy([10, 14, 5, 23, 55], "Desc");

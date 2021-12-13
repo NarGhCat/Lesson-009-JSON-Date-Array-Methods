@@ -1,3 +1,5 @@
+'use strict';
+
 function sum() {
     let args = [];
     for(let i in arguments) {
